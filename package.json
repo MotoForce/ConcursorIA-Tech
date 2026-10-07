@@ -1,0 +1,13 @@
+{
+  "name": "imob-velocity",
+  "version": "5.0.0",
+  "private": true,
+  "description": "Imob Velocity 5.0 — jogo web de cidade 3D, 2.000 missões, trajetos cinematográficos e garagem de veículos.",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node qa.test.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
